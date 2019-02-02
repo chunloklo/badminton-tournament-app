@@ -1,0 +1,13 @@
+Forfeit people (singles and doubles)
+Revamp UI
+CSS for brackets?
+Show games that are waiting and almost up
+Scrollable gameslist and show all of it?
+Better loading and recording mechanisms
+Able to reload/record current matches too
+A button to update output for nextGames without closing the window.
+Able to see the whole thing on one screen rather than separate window.
+Show score of finished games on brackets
+Able to get rid of wait times if wanted
+Way to shorten lunch time
+BUg: played games showing up on Games To Play
